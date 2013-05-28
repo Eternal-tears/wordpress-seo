@@ -15,9 +15,9 @@ wordpress/wp-content/plugins/wordpress-seo/languagesの中にwordpress-seo-ja.mo
 ライセンス
 ------
 著作権は放棄していません。
-以下の行為は著作者隣接権に抵触します。
+以下の行為は著作権＆著作者隣接権に抵触します。
 
-+poファイルのクレジットを変更した場合
++ poファイルのクレジットを変更した場合
 
 + Copyright &copy; 2012 <a href="http://lovelog.eternal-tears.com/" target="_blank">Eternal-tears</a>.
 
