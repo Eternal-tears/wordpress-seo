@@ -1,31 +1,23 @@
-flexslider-top-gallery
+WordPress SEO 日本語翻訳ファイル
 ======================
 
-トップのメイン画像を投稿した記事画像の中からランダムで表示してくれるプラグインです。
+WordPress SEOの日本語翻訳ファイルです。
 
 
 使い方
 ------
-表示したい部分に下記のソースを記述します。
-
-    <?php flexslider_top_gallery(); ?>
-
-管理画面
-------
-
-【管理画面＞プラグイン＞Flexslider Top Gallery】で、画像サイズや、切り替える画像数の設定ができます。
-
-使用したjQueryプラグイン
-------
-
-+ <a href="http://www.woothemes.com/flexslider/" target="_blank">jQuery FlexSlider v2.0</a>
+wordpress/wp-content/plugins/wordpress-seo/languagesの中にwordpress-seo-ja.moファイルを入れてください。
 
 謝辞
 -----
-<a href="http://www.warna.info/" target="_blank">まがりん</a>にソースビューしていただきました。
+<a href="http://8bitodyssey.com/" target="_blank">おでこ</a>。
 
 ライセンス
 ------
+著作権は放棄していません。
+以下の行為は著作者隣接権に抵触します。
+
++poファイルのクレジットを変更した場合
 
 + Copyright &copy; 2012 <a href="http://lovelog.eternal-tears.com/" target="_blank">Eternal-tears</a>.
 + <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank">Free to use under the GPLv2 license.</a>
